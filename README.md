@@ -8,7 +8,7 @@
 |2023.02 ~ 2023.09|멋쟁이사자처럼 11기|부원|
 |2023.11 ~ 2024.11|국립한밭대학교 컴퓨터공학과 학생화|학생회장|
 |2023.12.01 ~ 2024.11.30|멋쟁이 사자처럼 12기|대표|
-|2024.1.1 ~ 2024.12.31|소중한봉사단|임원진|
+|2024.01.01 ~ 2024.12.31|소중한봉사단|임원진|
 |2024.02.18 ~ 2024.03.02|인턴십|말레이시아 SW internship|
 |2024.03 ~ 2024.11|유성구청리빙랩|유성구청 협업 지류를 통한 데이터 처리|
 
@@ -32,9 +32,6 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
