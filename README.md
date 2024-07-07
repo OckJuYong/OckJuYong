@@ -110,7 +110,7 @@
   </tr>
   <tr>
     <td>2024.06</td>
-    <td>AIICon</td>
+    <td>AAICon</td>
     <td>Ai프렌즈</td>
     <td>참여</td>
   </tr>
