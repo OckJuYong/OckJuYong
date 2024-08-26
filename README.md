@@ -67,6 +67,11 @@
     <td>유성구청리빙랩</td>
     <td>유성구청 협업 지류를 통한 데이터 처리</td>
   </tr>
+    <tr>
+    <td>2024.08.11 ~ 2024.08.23</td>
+    <td>인턴십</td>
+    <td>베트남 (FIMO) SW internship</td>
+  </tr>
 </table>
 
 <!-- Competitions Section -->
