@@ -142,6 +142,12 @@
     <td>한밭대 SW중심대학</td>
     <td>동상</td>
   </tr>
+    <tr>
+    <td>2025.01.15(Wed) ~ 2025.02.14(Fri)</td>
+    <td>루트임팩트 AI해커톤</td>
+    <td>멋쟁이사자처럼, 루트임팩트, Google.org</td>
+    <td>대상</td>
+  </tr>
 </table>
 <br>
 <h2>github Information</h2>
